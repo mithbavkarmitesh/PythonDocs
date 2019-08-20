@@ -6,3 +6,7 @@ list = ['A','B','C']
 x =all(list)
 print(x)
 
+x=int(input("enter number))
+y=int(input("enter number))
+z=x*y
+print(z)
